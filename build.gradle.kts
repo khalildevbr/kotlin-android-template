@@ -33,7 +33,7 @@ subprojects {
     }
 }
 
-val NEXUS_USERNAME: String? by project
+//val NEXUS_USERNAME: String? by project
 val NEXUS_PASSWORD: String? by project
 
 nexusPublishing {
